@@ -17,3 +17,4 @@ Update the package lists on your Ubuntu system to ensure you have the latest ver
 ```bash
 sudo apt-get update && sudo apt-get upgrade -y
 
+## 2. Install the AWS CloudWatch Agent

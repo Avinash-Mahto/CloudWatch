@@ -11,6 +11,8 @@ Before you begin, ensure the following:
 - The instance has the necessary IAM role with permissions to write to CloudWatch Logs and Metrics.
 
 ## 1. Update System Packages
+   ```bashsudo apt-get update
+```
 
 Update the package lists on your Ubuntu system to ensure you have the latest versions:
 

@@ -17,7 +17,7 @@ Before you begin, ensure the following:
 Update the package lists on your Ubuntu system to ensure you have the latest versions:
 
 ## 2. Download the CloudWatch Agent Package
-   ```bash wget https://s3.amazonaws.com/amazoncloudwatch-agent/ubuntu/amd64/latest/amazon-cloudwatch-agent.deb```
+   ```bashwget https://s3.amazonaws.com/amazoncloudwatch-agent/ubuntu/amd64/latest/amazon-cloudwatch-agent.deb```
 
 ## 3. Install the CloudWatch Agent
 ```bash sudo dpkg -i amazon-cloudwatch-agent.deb
